@@ -1,3 +1,9 @@
+---
+layout: default
+title: Privacy Policy
+permalink: /privacy-policy/
+---
+
 # Privacy Policy for Warp to Sub-Screen
 
 **Last Updated:** 2025-9-9
