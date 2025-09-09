@@ -1,6 +1,6 @@
 # Privacy Policy for Warp to Sub-Screen
 
-**Last Updated:** 2025-9-9
+**Last Updated:** 2023-10-27
 
 This Privacy Policy describes how the "Warp to Sub-Screen" Chrome extension (the "Extension") handles your information. Your privacy is important to us, and we are committed to protecting it.
 
@@ -49,7 +49,7 @@ If you have any questions about this Privacy Policy, please contact us.
 
 # Warp to Sub-Screen プライバシーポリシー
 
-**最終更新日:** 2025年9月9日
+**最終更新日:** 2023年10月27日
 
 このプライバシーポリシーは、Chrome拡張機能「Warp to Sub-Screen」（以下、「本拡張機能」）がユーザーの情報をどのように扱うかについて説明します。
 
