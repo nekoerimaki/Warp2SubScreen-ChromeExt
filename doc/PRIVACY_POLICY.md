@@ -41,7 +41,7 @@ We may update this Privacy Policy in the future if the Extension's functionality
 If you have any questions about this Privacy Policy, please contact us.
 
 *   **Author:** Nekoerimaki
-*   **(Optional: Add your email or GitHub profile link here)**
+*   **https://github.com/nekoerimaki**
 
 ---
 
@@ -72,4 +72,4 @@ If you have any questions about this Privacy Policy, please contact us.
 本プライバシーポリシーに関するご質問は、開発者までお問い合わせください。
 
 *   **開発者:** Nekoerimaki
-*   **(任意: 連絡先のメールアドレスやGitHubプロフィールへのリンクを記載)**
+*   **https://github.com/nekoerimaki**
