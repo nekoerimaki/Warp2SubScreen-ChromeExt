@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Warp2SubScreen",
+  "version": "1.0",
+  "description": "現在のタブをサブモニターに移動してフルスクリーン表示します。",
+  "permissions": [
+    "system.display",
+    "tabs",
+    "scripting"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {},
+  "icons": { "128": "icon.png" }
+}
